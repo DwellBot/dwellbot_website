@@ -1,0 +1,55 @@
+:root {
+    --pink: #ff007e;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1,
+h2 {
+    color: var(--pink);
+    margin: 0;
+    padding: 25px;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 6rem;
+}
+
+h2 {
+    font-size: 2rem;
+    border-left: solid 4px var(--pink);
+}
+
+@media (max-width: 799px) {
+    body {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    h2 {
+        border-left: none;
+        border-top: solid 4px var(--pink);
+    }
+}
+
+@media (max-width: 600px) {
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        border-top: solid 2px var(--pink);
+        font-size: 1.25rem;
+    }
+}
