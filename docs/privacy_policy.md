@@ -27,7 +27,7 @@ If you have questions, contact us at **privacy@dwell.bot**.
 
 **Controller:** Dwell Bot Inc. (DBA DwellBot Games)  
 **Contact:** privacy@dwell.bot  
-**Mailing address:** *[Add your business mailing address]*
+**Mailing address:** *1333 North Adams Street, Tallahassee, FL  32303*
 
 ---
 
@@ -257,7 +257,7 @@ We may update this Policy from time to time. We will post the updated version an
 
 **Dwell Bot Inc. (DBA DwellBot Games)**  
 **Email:** privacy@dwell.bot  
-**Mailing address:** *[Add your business mailing address]*
+**Mailing address:** *1333 North Adams Street, Tallahassee, FL  32303*
 
 ---
 

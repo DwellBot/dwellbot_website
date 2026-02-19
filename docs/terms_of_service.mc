@@ -205,5 +205,5 @@ We may update these Terms from time to time. We will post the updated Terms and 
 **Dwell Bot Inc. (DBA DwellBot Games)**  
 Email: **support@dwell.bot** (support)  
 Email: **privacy@dwell.bot** (privacy)  
-Mailing address: *[Add your business mailing address]*
+Mailing address: *1333 North Adams Street, Tallahassee, FL  32303*
 
