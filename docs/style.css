@@ -6,7 +6,6 @@
 }
 
 body {
-    height: 100vh;
     scroll-behavior: smooth;
     display: flex;
     flex-direction: column;
@@ -65,7 +64,8 @@ a:focus {
 }
 
 main {
-    min-height: 100vh;
+    padding: 50px 0;
+    min-height: 80vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -205,5 +205,27 @@ main {
         font-size: 1.2rem;
         margin: 14px 0 8px;
         padding: 8px 12px;
+    }
+}
+
+@media (max-height: 899px) {
+    main {
+        padding: 25px;
+    }
+
+    h1 {
+        font-size: clamp(2.6rem, 7vw, 5.4rem);
+    }
+
+    h2 {
+        font-size: clamp(1.1rem, 2.2vw, 1.8rem);
+    }
+
+    p {
+        font-size: clamp(0.95rem, 1.2vw, 1.2rem);
+    }
+
+    .main__section-links a {
+        font-size: clamp(1.1rem, 2.8vw, 2rem);
     }
 }
